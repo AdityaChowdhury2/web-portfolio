@@ -15,7 +15,7 @@ p{
     color: dimgray;
 
 }
-h1 span{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -44,4 +44,27 @@ h1 span{
     background-image: url('images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+.experience{
+    background-image: url('images/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#senior{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightSalmon,tomato);
+    border-image-slice: 1;
+}
+#junior{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+}
+footer p{
+    text-align: center;
 }
