@@ -31,6 +31,7 @@ p{
 .top-banner{
     background-image: url('images/top-banner.png');
     background-repeat: no-repeat;
+    height: 763px;
 }
 .link-button{
     text-decoration: none;
@@ -44,6 +45,7 @@ p{
     background-image: url('images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
+    height: 763px;
 }
 .single-experience{
     box-shadow: 10px 10px 40px grey;
